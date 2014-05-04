@@ -1,9 +1,6 @@
 Getting started
 =====
 
-Getting started
-=====
-
 ### What's in the box
 
 ![Spark Core in box](images/core-in-box.jpg)
