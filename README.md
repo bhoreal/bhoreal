@@ -1,4 +1,6 @@
 Getting started
+
+Getting started
 =====
 
 ### What's in the box
