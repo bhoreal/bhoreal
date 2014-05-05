@@ -3,7 +3,7 @@ Getting started
 
 ### What's in the box
 
-![Spark Core in box](images/core-in-box.jpg)
+![Spark Core in box](images/devboard-infographic.jpg)
 
 Congratulations on being the owner of a brand new bhoreal! Y aquí empieza la fiesta...
 
