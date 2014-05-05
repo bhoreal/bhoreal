@@ -3,7 +3,7 @@ Getting started
 
 ### What's in the box
 
-![Spark Core in box](images/technological_mandala_02_the_beginning__20130826_1524411600.jpg)
+![Bhoreal in the box](images/technological_mandala_02_the_beginning__20130826_1524411600.jpg)
 
 Congratulations on being the owner of a brand new bhoreal! Y aquí empieza la fiesta...
 
