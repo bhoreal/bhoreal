@@ -1,1 +1,1 @@
-http://www.bhoreal.com/
+http://bhoreal.com/
