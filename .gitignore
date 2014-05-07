@@ -1,5 +1,5 @@
-.DS_Store
-node_modules
 $ cat .gitignore
 *.[oa]
 *~
+.DS_Store
+node_modules
