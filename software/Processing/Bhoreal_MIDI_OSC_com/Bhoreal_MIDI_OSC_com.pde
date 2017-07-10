@@ -104,20 +104,6 @@ void draw() {
   
 }
 
-void mousePressed() {
- /* Everytime the sketch running windows is pressed, an OSC message is sended
-  * As the MAX patch for Bhoreal MIDI-OSC communication accepts osc message 
-  * with this look: "/led X Y" where X is the number of pad (0 - 15) and Y the 
-  * color HUE value (0-255), the OSC messages are built that way. Here is an exmaple.
-  */
-  OscMessage myMessage = new OscMessage("/led");
-  myMessage.add(3);    // add an int to the osc message, the 3rd pad in this case
-  myMessage.add(150);  // add an other int, the HUE
-  /* send the message */
-  oscP5.send(myMessage, tosendAdress); 
-}
-
-
 /* incoming osc message are forwarded to the oscEvent method. */
 void oscEvent(OscMessage theOscMessage) {
   /* print the typetag, the address pattern and the value of the received OscMessage */
