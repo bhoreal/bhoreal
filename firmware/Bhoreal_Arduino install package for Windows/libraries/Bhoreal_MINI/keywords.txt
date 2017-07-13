@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Bhoreal
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BhorealSlim	KEYWORD1	BhorealSlimLibrary
+BhorealMini	KEYWORD1	BhorealMiniLibrary
+BhorealSlave	KEYWORD1	BhorealSlaveLibrary
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+startup	KEYWORD2
+midiRefresh	KEYWORD2
+checkButtons	KEYWORD2
+checkADC	KEYWORD2
+displayRefresh	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
